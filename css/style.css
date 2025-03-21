@@ -9687,6 +9687,10 @@ textarea.form-control {
   margin-left: auto;
 }
 
+.margin-svg {
+  margin-block: auto;
+}
+
 @-webkit-keyframes loader-rotate {
   100% {
     -webkit-transform: rotate(360deg);
